@@ -5,4 +5,4 @@ Stats
 
 Languages
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younesehb&langs_count=10&exlude_repo=dap&theme=gruvbox)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younesehb&langs_count=10&exlude_repo=dap&theme=gruvbox&include_all_commits=true)
